@@ -2,6 +2,8 @@
 
 Teaching Assistant at Borg El Arab Technological University, based in Alexandria, Egypt. I build web applications and work across networking and software development.
 
+B.Tech graduate in Information and Communication Technology: 1st in the Networks track and 4th in the IT department.
+
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
