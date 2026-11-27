@@ -11,7 +11,7 @@
 
 I build web applications and work across networking and software. I have been a full-time Teaching Assistant at Borg El Arab Technological University since October 2025, running networking and programming labs (Cisco Packet Tracer, Python).
 
-B.Tech in Information and Communication Technology (Computer Networks), graduating **1st in the Networks track and 4th in the IT department**. CCNA-trained: routing, switching, VLANs, network monitoring and troubleshooting.
+Bachelor of Technology in Information Technology, Computer Networks, graduating **1st in the Networks track and 4th in the IT department**. CCNA-trained: routing, switching, VLANs, network monitoring and troubleshooting.
 
 ## Tech stack
 
